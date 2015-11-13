@@ -73,8 +73,9 @@
         "lyricalmap.xml",
         "hugoballin.xml",
         "academyawards.xml",
-        "labreatarpits.xml",
-        "willrogers.xml"
+        "willrogers.xml",
+        "labreatarpits.xml"
+        
       ]
    }
   , "markers" : {
