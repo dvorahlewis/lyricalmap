@@ -6,10 +6,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>Will Rogers and "The House That Jokes Built"</title>
+            <author>Madeleine H.</author>
+            <author>Julia B.</author>
+            <author>Jordan O.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -19,7 +19,7 @@
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>Will Rogers State Historic Park Collection of Scrapbook Material about Will Rogers, UCLA Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
