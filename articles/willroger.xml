@@ -51,7 +51,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">William Rogers, Williams Rogers State Historic Park</placeName>
+            <placeName type="arts">William Rogers and "The House That Jokes Built", William Rogers State Historic Park</placeName>
             <geo>-118.51256849999999 34.0549328</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             
             <p>The house itself reflects the values and lifestyle of Will Rogers and his life in Oklahoma. In a letter to the architect, Rogers instructed that the house be built at ground level so that he could ride his horses right up to the house and hitch them at the porch. He wanted the house to be connected to the landscape in every way possible.</p>
@@ -60,7 +60,7 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>California State Parks.<hi rend="italic"> Will Rogers State Historic Park Equestrian &amp; Livestock Management Plan.</hi></bibl>
+               <bibl>California State Parks.<hi rend="ital"> Will Rogers State Historic Park Equestrian &amp; Livestock Management Plan.</hi></bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 1...</bibl>
                <bibl>Citation 2...</bibl>
